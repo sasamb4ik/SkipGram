@@ -1,1 +1,1 @@
-# SkipGram
+# Skip-Gram
